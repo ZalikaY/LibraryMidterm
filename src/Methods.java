@@ -12,15 +12,15 @@ public class Methods {
 		bookList [3] [0] = "Title: The Lunatic Cafe \n Author: Laurell K. Hamilton";
 		bookList [4] [0] = "Title: Bloody Bones \n Author: Laurell K. Hamilton";
 		bookList [5] [0] = "Title: The killing Dance \n Author: Laurell K. Hamilton";
-		bookList [6] [0] = "Title: Enders Game \n Author:";
-		bookList [7] [0] = "Title: \n Author:";
-		bookList [8] [0] = "Title: \n Author:";
-		bookList [9] [0] = "Title: \n Author:";
-		bookList [10] [0] = "Title: \n Author:";
-		bookList [11] [0] ="Title: \n Author:";
-		bookList [12] [0] ="Title: \n Author:";
-		bookList [13] [0] ="Title: \n Author:";
-		bookList [14] [0] ="Title: \n Author:";
+		bookList [6] [0] = "Title: Enders Game \n Author: Orson Scott Clark";
+		bookList [7] [0] = "Title: Harry Potter \n Author: JK Rowlins";
+		bookList [8] [0] = "Title: Minion \n Author: L.A Banks";
+		bookList [9] [0] = "Title: The Awakening \n Author: L.A Banks";
+		bookList [10] [0] = "Title: The Hunted \n Author: L.A Banks";
+		bookList [11] [0] = "Title: The Bitten \n Author: L.A Banks";
+		bookList [12] [0] = "Title: The Color Purple \n Author: Alice Walker";
+		bookList [13] [0] = "Title: What was he thinking? \n Author: Leroy Johnson";
+		bookList [14] [0] = "Title: A day in the life \n Author: Andre 3000";
 		
 		return bookList;
 }

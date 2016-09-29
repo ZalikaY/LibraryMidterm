@@ -38,16 +38,6 @@ public static String searchChoice(){
 	return choice;
 }
 
-public static String enterChoice(String c){
-	if(choice.equalsIgnoreCase("title")){
-		System.out.println("Please enter title: ");
-		titleOrAuthor = input.nextLine();
-	}else{
-		System.out.println("Please enter author: ");
-	 titleOrAuthor = input.nextLine();
-	}
-	return titleOrAuthor;
-}
-	
+
 
 }
