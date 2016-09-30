@@ -38,10 +38,6 @@ public class LibraryApp {
 			CheckOut.searchChoice();
 			
 		}
-		//Book b1 = new Book(CheckOut.searchChoice());
-		
-		//System.out.println("You have " + Book.getCheckedOutBooks() + "checked out");
-		//Book newBookSelection = new Book(choice);
-	}
+		}
 
 }

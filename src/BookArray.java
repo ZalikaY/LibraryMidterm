@@ -32,15 +32,18 @@ public class BookArray {
 		
 		}
 		return books;
-
-		
-	//public static void printbooksList(){
-		
-	//	for(String book : books){
-				
-		//			System.out.println(book);
 			
 		}
+	
+/*public static void  CheckInOrOut(){
+	
+	
+	if(in){
+		System.out.println("This book is available to the check out");
+	}else{
+		System.out.println("This book is not availible to check out" + "This book will be available: "+ Date);
+	}
+} */
 	}
 
 	

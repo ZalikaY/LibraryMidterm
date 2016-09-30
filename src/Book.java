@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 
 public class Book {
 public String title;
@@ -17,6 +18,17 @@ public String getTitle(){
 public String getAuthor(){
 	return author;
 }
+
+
+/*public void setCheckedIn(){
+	availible = true;
+	
+}
+
+public void setCheckedOut(){
+	availible = false;
+}*/
+
 }
 
 
