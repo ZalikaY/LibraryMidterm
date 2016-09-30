@@ -1,20 +1,25 @@
 
-/*public class Book {
-	
-	//Due Date will be printed out in array 
-	
-	public String title;
-	public String author;
-	public String keyword;
-	
-	
-	
-public Book(String c)
-	this.choice = c;
+public class Book {
+public String title;
+public String author;
+boolean availible = true;
 
-	
-}*/	
-	
+
+public Book(String t, String a){
+	title = t ;
+	author = a ;
+}
+
+public String getTitle(){
+	return title;
+}
+
+public String getAuthor(){
+	return author;
+}
+}
+
+
 	
 
 	

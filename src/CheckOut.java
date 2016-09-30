@@ -13,7 +13,7 @@ public static void printOutListOfBooks(){
 		
 		System.out.println("Here is a list of the books");
 
-			Methods.printBookList();
+			BookArray.books();
 
 	}
 

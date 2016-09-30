@@ -9,6 +9,8 @@ public class LibraryApp {
 		
 	Scanner input = new Scanner(System.in);
 		//Welcome user 
+	
+
 		System.out.println("Welcome to the Library App");
 		System.out.println("Would you like to return book or check out a book? (return/check out)");
 		option = input.nextLine();
@@ -36,13 +38,10 @@ public class LibraryApp {
 			CheckOut.searchChoice();
 			
 		}
+		//Book b1 = new Book(CheckOut.searchChoice());
+		
+		//System.out.println("You have " + Book.getCheckedOutBooks() + "checked out");
 		//Book newBookSelection = new Book(choice);
-	
-		
-		
-		
-		
-
 	}
 
 }
